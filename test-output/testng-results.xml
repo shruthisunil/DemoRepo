@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51701" started-at="2019-03-30T11:56:08Z" finished-at="2019-03-30T11:57:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51701" started-at="2019-03-30T11:56:08Z" finished-at="2019-03-30T11:57:00Z">
+      <class name="testClasses.DataBaseConnectivity">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:testClasses.DataBaseConnectivity@4eb7f003]" name="setUP" duration-ms="24137" started-at="2019-03-30T11:56:08Z" finished-at="2019-03-30T11:56:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="setUpDatabaseConnection()[pri:0, instance:testClasses.DataBaseConnectivity@4eb7f003]" name="setUpDatabaseConnection" duration-ms="27452" started-at="2019-03-30T11:56:32Z" finished-at="2019-03-30T11:57:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDatabaseConnection -->
+      </class> <!-- testClasses.DataBaseConnectivity -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

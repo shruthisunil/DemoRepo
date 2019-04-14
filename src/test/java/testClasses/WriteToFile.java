@@ -21,6 +21,8 @@ public class WriteToFile {
 			bw.write(content);
 
 			System.out.println("Done");
+			System.out.println("changes to see in github");
+			System.out.println("changes to see in githu");
 
 		} catch (IOException e) {
 
